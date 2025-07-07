@@ -1,6 +1,6 @@
 This mini web project is an educational HTML/CSS demo introducing frameworks .
 
-🔹 HTML Highlights:
+   HTML Highlights:
 Uses semantic tags (<h1>, <p>, <ul>, <ol>)
 
 Includes an image that links to techno-science.net
@@ -9,7 +9,7 @@ Lists advantages and examples of web frameworks like React, Angular, and Django
 
 Structures part of the content in a styled <div> container
 
-🔹 CSS Highlights:
+   CSS Highlights:
 Sandy brown background with a modern sans-serif font
 
 Large red-centered title
