@@ -1,7 +1,7 @@
 This mini web project is an educational HTML/CSS demo introducing frameworks .
 
    HTML Highlights:
-Uses semantic tags (<h1>, <p>, <ul>, <ol>)
+Uses semantic tags 
 
 Includes an image that links to techno-science.net
 
